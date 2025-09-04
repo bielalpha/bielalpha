@@ -29,6 +29,9 @@ Meu foco é construir soluções escaláveis, seguras e de alta performance. �
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
+## 🔧 Testes
+![Jest](https://img.shields.io/badge/Jest-FC6D26?style=for-the-badge&logo=Jest&logoColor=fff)
+
 ## 📦 DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
