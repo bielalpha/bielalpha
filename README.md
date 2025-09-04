@@ -1,3 +1,12 @@
+# 👋 Olá, eu sou Gabriel  
+
+# Sobre mim
+Sou desenvolvedor de software apaixonado por **tecnologia**, **inovação** e **resolução de problemas complexos**.  
+Tenho experiência em **backend**, **frontend** e **DevOps**, trabalhando com diferentes linguagens, frameworks e metodologias ágeis.  
+Meu foco é construir soluções escaláveis, seguras e de alta performance. 🚀  
+
+> 💡 *Cada desafio é uma oportunidade de crescimento.*
+
 ## 🚀 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
